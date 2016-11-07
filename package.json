@@ -20,7 +20,7 @@
     "url": "http://github.com/bitpshr/holler/issues"
   },
   "dependencies": {
-  	"faye" : "0.8.6"
+  	"faye" : "1.2.3"
   },
   "preferGlobal": "true",
   "bin": {
